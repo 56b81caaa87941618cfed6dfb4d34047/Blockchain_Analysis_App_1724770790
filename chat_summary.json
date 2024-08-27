@@ -12,5 +12,11 @@
         "content": "add a button that says hello world",
         "timestamp": "27082024150027",
         "message_id": "guest27082024150027"
+    },
+    {
+        "role": "chat_acknowledge",
+        "content": "Got it, I'll add a button that says \"Hello World\".",
+        "timestamp": "27082024150028",
+        "message_id": "guest27082024150027"
     }
 ]
