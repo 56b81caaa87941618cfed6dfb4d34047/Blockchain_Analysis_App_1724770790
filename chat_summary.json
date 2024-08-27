@@ -18,5 +18,11 @@
         "content": "Got it, I'll add a button that says \"Hello World\".",
         "timestamp": "27082024150028",
         "message_id": "guest27082024150027"
+    },
+    {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Where would you like the 'Hello World' button to be positioned on the app's interface?\", \"option1\": \"In the center of the main screen\", \"option2\": \"In the app's toolbar/header\"}, {\"question 2\": \"What function do you intend the 'Hello World' button to perform once pressed?\", \"option1\": \"Display a 'Hello World' message on the screen\", \"option2\": \"Trigger a specific backend action or process\"}], \"input_token_count\": 274, \"output_token_count\": 109, \"time_taken\": \"0:00:04.644610\"}",
+        "timestamp": "27082024150033",
+        "message_id": "guest27082024150027"
     }
 ]
